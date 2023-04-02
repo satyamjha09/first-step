@@ -1,0 +1,49 @@
+.box{
+    border: 2px solid black;
+    height: 200px;
+    width: 400px;
+    margin: 10px;
+    padding: 35px;
+
+}
+
+#dog{
+    background-color: aqua;
+}
+
+#cat{
+    background-color: #fffff7;
+}
+
+#ca{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* .box{
+    height: 100px;
+    width: 200px;
+    border:1px solid black;
+    margin:10px;
+    padding: 35px;
+}
+
+#org{
+    background-color: #ffffff;
+}
+#wht{
+    background-color: rgb(233,342,123);
+}
+#grn{
+    background-color: green;
+} */

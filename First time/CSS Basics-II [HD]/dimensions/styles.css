@@ -1,0 +1,16 @@
+.box{
+    border: 1px solid black;
+    margin: 1px; 
+    /* padding: 3px; */
+    max-width: 600px;
+    max-height: 400px;
+    overflow: scroll;
+}
+
+
+/* .box{
+    max-height: 400px;
+    max-width: 600px;
+    border: 1px solid black;
+    overflow: scroll;
+} */
